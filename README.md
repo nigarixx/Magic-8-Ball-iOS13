@@ -1,18 +1,15 @@
-![App Brewery Banner](Documentation/AppBreweryBanner.png)
-
-# Magic 8 Ball
-
-## Our Goal
-
-The objective of this challenge is to apply the skills you learned in the Dicee tutorial and get you making an app with functionality all by yourself. There’s no new concepts here. But you’re flyin’ solo this time! Most of the programming skills are gained in the challenges rather than the tutorials. It’s when you’re using your new-found programming skills to bend the app to your will that you’re truly levelling up as a developer.
-
-## What you will create
-
-We’re going to make a Magic 8 Ball app. You can ask the app to make all your hard decisions! With this app in your pocket, you’ll always have an answer to life’s many conundrums!
+🎱 Magic 8 Ball 🎱
 
 
+About:
 
->This is a companion project to The App Brewery's Complete App Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
+The Magic 8 Ball project is a delightful Swift implementation of the classic fortune-telling toy.
+🔮 Ask Anything: Pose your questions, whether they're about life, love, or just plain curiosity. The Magic 8 Ball has answers.
 
-![End Banner](Documentation/readme-end-banner.png)
 
+Acknowledgments:
+
+Huge thanks to the Dr. Angela Yu - creator of the original Magic 8 Ball for the inspiration behind this digital adaptation!
+
+
+Don't just wonder; let the Magic 8 Ball decide!
